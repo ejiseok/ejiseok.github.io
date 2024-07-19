@@ -3,7 +3,8 @@
  */
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://ejiseok.github.io`,
   },
+  keywords: ["blog", "development", "asdf"],
   plugins: [],
-}
+};
